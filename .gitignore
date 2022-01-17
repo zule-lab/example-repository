@@ -1,3 +1,6 @@
+# Ignored folder for large files  
+/large/
+
 # History files
 .Rhistory
 .Rapp.history
