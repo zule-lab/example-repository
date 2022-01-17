@@ -1,0 +1,1 @@
+# Initial script folder may be dedicated to downloading data 
